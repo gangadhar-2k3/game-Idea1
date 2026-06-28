@@ -1,6 +1,6 @@
 # game-Idea1
 game design and development  as to go through for person
-# 🎮 Project Trinity
+# 🎮  reincarinated personality
 
 > Every Crime Has Three Stories.
 
