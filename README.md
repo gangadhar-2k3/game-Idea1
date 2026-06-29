@@ -1,6 +1,6 @@
 # game-Idea1
 game design and development  as to go through for person
-# 🎮  reincarinated personality
+# 🎮  Hidden Voice
 
 > Every Crime Has Three Stories.
 
